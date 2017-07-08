@@ -1,0 +1,3 @@
+rootProject.name = 'Elementary lessons'
+include 'Elementary'
+
